@@ -1,0 +1,30 @@
+#timer{
+    float:right;
+}
+body{
+    background-color: aqua;
+}
+#predicted_sketch{
+    font-size:20px;
+}
+#confidence{
+    font-size:20px;
+}
+#given_sketch{
+    font-size:20px;
+}
+.container{
+    font-size: 25px;
+    color:orangered;
+    font-family:cursive;
+    margin-top: 15px;
+}
+h1{
+font-family: monospace;
+color:forestgreen;
+}
+canvas{
+    border:5px solid black;
+    border-radius: 20px;
+box-shadow: 5px 9px 9px grey;
+}
